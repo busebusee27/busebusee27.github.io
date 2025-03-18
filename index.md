@@ -298,15 +298,30 @@ then transferred to MIT.
 <!-- * Introduction to Autonomous Underwater Vehicles
 * Introduction to Design -->
 
-
 ---
-### Other Stuff
+
+# Other Stuff
 <details>
     <summary><b>Project Engineering</b></summary>
+    Attended and participated in a four-day off-site workshop covering an introduction
+     to basic principles, methods, and tools for project management in a realistic context. 
+     In a team, created a plan for a project in farm automation. 
+    Developed skills applicable to the planning and management of complex engineering projects. 
+    Topics included cost-benefit analysis, resource and cost estimation, 
+    and project control and delivery which were practiced during an experiential, team-based activity. 
+    Case studies highlighted projects in both hardware/software and consumer packaged goods.
 </details>
 <details>
     <summary><b>Gordon-MIT Engineering Leadership Program</b></summary>
+    Selective leader development program focused on being an effective member and 
+    leader of industry engineering teams. Actively practicing leadership, teamwork, 
+    and communication skills in an engineering context; complementing MIT’s technical 
+    coursework.
 </details>
 <details>
     <summary><b>Undergraduatae Practice Opportunities Program</b></summary>
+    Honed teamwork, problem solving, and communication skills through professional
+    development themed workshops, discussions, modules, and mentorship.
+    Collaborated with a team of six peers over the course of a 4-day workshop to 
+    ideate, research, and present a theoretical sustainable dorm at MIT to c-suite level executives.
 </details>
