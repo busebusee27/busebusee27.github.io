@@ -299,7 +299,7 @@ then transferred to MIT.
 * Introduction to Design -->
 
 
-
+---
 ### Other Stuff
 <details>
     <summary><b>Project Engineering</b></summary>
