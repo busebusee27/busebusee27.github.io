@@ -1,5 +1,7 @@
 # Classes
-I spent my first year at the University of Manchester,
+I'm a junior/third year at MIT studying computer science.
+
+I spent my first year (fall 22, spring 23) at the University of Manchester,
 then transferred to MIT.
 
 ### Fall 2022
