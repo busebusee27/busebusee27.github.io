@@ -137,7 +137,7 @@ then transferred to MIT.
 
 ### Spring 2024
 <details>
-    <summary></b>Software Construction</b></summary>
+    <summary><b>Software Construction</b></summary>
     Introduced fundamental principles and techniques of software development: 
     how to write software that is safe from bugs, easy to understand, and ready for change. 
     Topics included specifications and invariants; testing, test-case generation, and coverage;
@@ -299,7 +299,14 @@ then transferred to MIT.
 * Introduction to Design -->
 
 
+
 ### Other Stuff
-* Project Engineering
-* Gordon-MIT Engineering Leadership Program
-* Undergraduatae Practice Opportunities Program
+<details>
+    <summary><b>Project Engineering</b></summary>
+</details>
+<details>
+    <summary><b>Gordon-MIT Engineering Leadership Program</b></summary>
+</details>
+<details>
+    <summary><b>Undergraduatae Practice Opportunities Program</b></summary>
+</details>
